@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Saiteja 👋
 
-<!--
-**saiteja16433-lang/saiteja16433-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI/ML | Python | Computer Vision
 
-Here are some ideas to get you started:
+I build practical software applications using Python, machine learning, computer vision, and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💻 Interested in AI/ML, computer vision, and full-stack development
+- 🧠 Learning software engineering, Git, and machine learning fundamentals
+- 🔧 Working with Python, React, FastAPI, SQL, and IoT technologies
+- 🎯 Focused on building reliable, well-documented applications
+
+## Technical Skills
+
+- **Languages:** Python, JavaScript, SQL
+- **AI/ML:** Machine Learning, Object Detection, Computer Vision
+- **Backend:** FastAPI, REST APIs
+- **Frontend:** React, HTML, CSS
+- **Tools:** Git, GitHub, VS Code, OpenCV
+- **Cloud:** AWS, Microsoft Azure
+
+## Featured Projects
+
+Projects will be added here as I publish documented and reproducible work.
+
+## Currently Learning
+
+- Git and GitHub
+- Machine Learning fundamentals
+- Testing and clean code practices
+
+## Connect With Me
+
+- GitHub: [@saiteja16433-lang](https://github.com/saiteja16433-lang)
+- LinkedIn: Add your LinkedIn profile URL here
